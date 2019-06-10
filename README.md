@@ -50,12 +50,12 @@ We've provided you with a console that you can use to test your code. To enter a
 
 - `VentureCapitalist#name`
   - returns a **string** that is the venture capitalist's name
-- `VentureCapitalist#total_worth`
-  - returns a **number** that is the total worth of this investor (e.g., think of it as how much money they have)
+<!-- - `VentureCapitalist#total_worth`
+  - returns a **number** that is the total worth of this investor (e.g., think of it as how much money they have) -->
 - `VentureCapitalist.all`
   - returns an array of all venture capitalists
-- `VentureCapitalist.tres_commas_club`
-  - returns an array of all venture capitalists in the Trés Commas club (they have more then 1,000,000,000 `total_worth`)
+<!-- - `VentureCapitalist.tres_commas_club`
+  - returns an array of all venture capitalists in the Trés Commas club (they have more then 1,000,000,000 `total_worth`) -->
 
 ---
 
@@ -90,8 +90,8 @@ We've provided you with a console that you can use to test your code. To enter a
   - Returns the total sum of investments that the startup has gotten
 - `Startup#investors`
   - Returns a **unique** array of all the venture capitalists that have invested in this company
-- `Startup#big_investors`
-  - Returns a **unique** array of all the venture capitalists that have invested in this company and are in the Trés Commas club
+<!-- - `Startup#big_investors`
+  - Returns a **unique** array of all the venture capitalists that have invested in this company and are in the Trés Commas club -->
 
 #### VentureCapitalist
 
@@ -101,8 +101,8 @@ We've provided you with a console that you can use to test your code. To enter a
   - returns an array of all funding rounds for that venture capitalist
 - `VentureCapitalist#portfolio`
   - Returns a **unique** list of all startups this venture capitalist has funded
-- `VentureCapitalist#biggest_investment`
-  - returns the largest funding round given by this venture capitalist
+<!-- - `VentureCapitalist#biggest_investment`
+  - returns the largest funding round given by this venture capitalist -->
 - `VentureCapitalist#invested`
   - given a **domain string**, returns the total amount invested in that domain
 
